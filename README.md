@@ -1,4 +1,4 @@
-# EM213-Final Project
+# EM213 Final Project
 Final Project for EM213 class 
 
 - Alejandro Colina-Valeri
